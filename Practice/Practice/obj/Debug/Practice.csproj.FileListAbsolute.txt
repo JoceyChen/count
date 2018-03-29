@@ -1,0 +1,6 @@
+C:\Users\w401\Desktop\Git\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\w401\Desktop\Git\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\w401\Desktop\Git\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\w401\Desktop\Git\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Users\w401\Desktop\Git\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\w401\Desktop\Git\Practice\Practice\obj\Debug\Practice.pdb
